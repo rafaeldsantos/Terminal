@@ -21,6 +21,7 @@ int main() {
 	char aux;
 	char nome_arq[30];
 	int segundo_plano,i,redirecionamentoIn,redirecionamentoOut, flag;
+	printf("oi, usuario\n");
 	while (1) {
 		count=0;
 		segundo_plano=FALSE;
